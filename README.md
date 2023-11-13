@@ -1,27 +1,25 @@
 # Home Security Project with Face Detection and Video Recording
 
-__Table of Contents__
+## Table of Contents
 
-Features
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contributing](#contributing)
 
-Prerequisites
+## Features
 
-Installation
+- Face detection using Python and OpenCV.
+- Automatic video recording when a face is detected.
+- Stops recording if the face disappears for 5 seconds.
+- Saves video files with the current timestamp.
 
-Usage
+## Prerequisites
 
-Contributing
+- Python 3.x
+- OpenCV
 
-Face detection using Python and OpenCV.
-Automatic video recording when a face is detected.
-Stops recording if the face disappears for 5 seconds.
-Saves video files with the current timestamp.
-
-__Prerequisites__
-
-Python 3.x
-
-OpenCV
+## Installation
 
 __Clone the repository:__
 
@@ -41,10 +39,7 @@ __Run the main Python script:__
 
 We welcome contributions from the community. If you want to contribute to this project, please follow these steps:
 
-Fork the repository.
-
-Create a new branch for your feature or bug fix.
-
-Make your changes and commit them.
-
-Push to your branch and open a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch and open a pull request.
