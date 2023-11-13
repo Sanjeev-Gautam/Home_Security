@@ -1,4 +1,4 @@
-#Home Security Project with Face Detection and Video Recording
+# Home Security Project with Face Detection and Video Recording
 
 __Table of Contents__
 
@@ -37,7 +37,7 @@ __Run the main Python script:__
 
 
 
-#Contributing
+# Contributing
 
 We welcome contributions from the community. If you want to contribute to this project, please follow these steps:
 
